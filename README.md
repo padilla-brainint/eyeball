@@ -1,7 +1,6 @@
 # Eyeball
 
 Code an Eye in Processing
-CREATIVE  CODING CLASS | PADILLA | ALHS | 2018
 
 
 # GOALS For This Assignment
