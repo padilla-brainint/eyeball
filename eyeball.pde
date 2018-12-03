@@ -22,5 +22,3 @@ ellipse(150,150,30,30);
 //highlight
 fill(255,255,255);
 ellipse(180,130,15,15);
-
-save("PADILLA.Eyeball.Drawing.png");
